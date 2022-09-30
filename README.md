@@ -12,7 +12,7 @@
 
 
 
-<h2>Skills:<h2>
+<h3>Skills:<h3>
 <h4>Programming Skills: </h4>
 <h4>Familiar with: </h4>
 <h4>Good knowledge of Cybersecurity.</h4>
