@@ -13,25 +13,36 @@
 
 
 <h3>Skills:<h3>
-    <h4>Proficient with:</h4>
-        <ul>
-            <li>Python</li>
-            <li>JavaScript</li>
-            <li>Node.js</li>
-            <li>SQL</li>    
-        </ul>
+    <ul>
+        <li><h4>Proficient with:</h4></li>
+            <ul>
+                <li>Python</li>
+                <hr/>
+                <li>JavaScript</li>
+                <hr/>
+                <li>Node.js</li>
+                <hr/>
+                <li>SQL</li>    
+                <hr/>
+            </ul>
+        <li><h4>Familiar with:</h4></li>
+            <ul>
+                <li>HTML5</li>
+                <hr/>
+                <li>BootStrap</li>
+                <hr/>
+                <li>CSS</li>    
+                <hr/>
+            </ul>
+    <li><h4>Good knowledge of Cybersecurity.</h4></li>
+    <li><h4>Expert in using Linux-based operating systems(Ubuntu, KaliOS, ParrotOS, TailOs), Windows, MacOS, etc.</h4></ul></li>
 
-<h4>Good knowledge of Cybersecurity.</h4>   
-<h4>Programming Skills: </h4>
-<h4>Expert in using Linux-based operating systems(Ubuntu, KaliOS, ParrotOS, TailOs), Windows, MacOS, etc.</h4>
-
-    ksldklssd
-        :arrow_right: Python
+    
 ### Connect with me:
 
 >**Thanks for visiting my profile.**
 
->**Let me tell you about me.** 
+>**Let me tell you about me.**
 
 
 
