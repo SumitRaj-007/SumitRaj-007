@@ -13,12 +13,20 @@
 
 
 <h3>Skills:<h3>
-<h4>Programming Skills: </h4>
-<h4>Familiar with: </h4>
-<h4>Good knowledge of Cybersecurity.</h4>
+    <h4>Proficient with:</h4>
+        <ul>
+            <li>Python</li>
+            <li>JavaScript</li>
+            <li>Node.js</li>
+            <li>SQL</li>    
+        </ul>
+
+<h4>Good knowledge of Cybersecurity.</h4>   
 <h4>Programming Skills: </h4>
 <h4>Expert in using Linux-based operating systems(Ubuntu, KaliOS, ParrotOS, TailOs), Windows, MacOS, etc.</h4>
 
+    ksldklssd
+        :arrow_right: Python
 ### Connect with me:
 
 >**Thanks for visiting my profile.**
