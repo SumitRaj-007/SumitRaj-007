@@ -1,8 +1,14 @@
-# Hi there 👋, I'm Sumit Raj.
-##### Thanks for visiting my profile.
-### Skills: 
-### Connect with me:
+<h1 align="center"> Hi there 👋, I'm <em>Sumit Raj<em>. </h1>
 
+<hr/>
+
+>**Thanks for visiting my profile.**
+
+<hr/>
+
+### *Skills*: 
+
+### Connect with me:
 
 
 
