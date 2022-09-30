@@ -1,14 +1,29 @@
-<h1 align="center"> Hi there 👋, I'm <em>Sumit Raj<em>. </h1>
-
+<h1 align="center"> Hi there 👋, I'm <em><strong>Sumit Raj</strong><em>. </h1>
 <hr/>
+
+<h2 align="center"> A web developer from <em><strong>INDIA</strong><em>. </h2>
+<hr/>
+
+<h3 align="center"> •	I am working as System Engineer at <em><strong>TCS</strong><em>. </h3>
+<hr/>
+
+<h3 align="center"> •	I’m currently learning <em><strong>Full Stack Development.</strong><em>. </h3>
+<hr/>
+
+
+
+### **Skills:**
+<h4>Programming Skills: </h4>
+<h4>Familiar with: </h4>
+<h4>Good knowledge of Cybersecurity.</h4>
+<h4>Programming Skills: </h4>
+<h4>Expert in using Linux-based operating systems(Ubuntu, KaliOS, ParrotOS, TailOs), Windows, MacOS, etc.</h4>
+
+### Connect with me:
 
 >**Thanks for visiting my profile.**
 
-<hr/>
-
-### *Skills*: 
-
-### Connect with me:
+>**Let me tell you about me.** 
 
 
 
