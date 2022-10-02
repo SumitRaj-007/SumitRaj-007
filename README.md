@@ -40,6 +40,13 @@
     
 ### Connect with me:
 
+<p  align="center">
+<a href="https://www.linkedin.com/in/sumit-raj-007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-raj-007" height="30" width="40" /></a>
+<a href="https://www.instagram.com/xumit_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xumit_7" height="30" width="40" /></a>
+<a href="https://leetcode.com/SumitRaj-007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SumitRaj-007" height="30" width="40" /></a>
+<a href="https://t.me/Kayastha7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-raj-007" height="30" width="40" /></a>
+</p>
+
 >**Thanks for visiting my profile.**
 
 >**Let me tell you about me.**
