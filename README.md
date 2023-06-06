@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋, I'm <em><strong>Sumit Raj</strong><em>. </h1>
 <hr/>
 
-<h2 align="center">CyberSecurity Analyst + Ethical Hacker<em><strong>INDIA</strong><em>. </h2>
+<h2 align="center">CyberSecurity Analyst + Ethical Hacker <em><strong>INDIA</strong><em>. </h2>
 <hr/>
 
 <h3 align="center"> •	I am working as System Engineer at <em><strong>TCS</strong><em>. </h3>
