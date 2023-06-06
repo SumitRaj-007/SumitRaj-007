@@ -7,7 +7,7 @@
 <h3 align="center"> •	I am working as System Engineer at <em><strong>TCS</strong><em>. </h3>
 <hr/>
 
-<h3 align="center"> •	I’m currently learning <em><strong>Full Stack Development.</strong><em>. </h3>
+<h3 align="center"> •	Loves to learn various subjects <em><strong></strong><em>. </h3>
 <hr/>
 
 
