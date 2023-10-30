@@ -1,75 +1,23 @@
-<h1 align="center"> Hi there 👋, I'm <em><strong>Sumit Raj</strong><em>. </h1>
-<hr/>
+<h1 align="center">Hi 👋, I'm Sumit Raj</h1>
+<h3 align="center">CyberSecurity Analyst</h3>
 
-<h2 align="center">CyberSecurity Analyst + Ethical Hacker <em><strong>INDIA</strong><em>. </h2>
-<hr/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitraj-007&label=Profile%20views&color=0e75b6&style=flat" alt="sumitraj-007" /> </p>
 
-<h3 align="center"> •	I am working as System Engineer at <em><strong>TCS</strong><em>. </h3>
-<hr/>
+- 🌱 I’m currently learning **Pentesting**
 
-<h3 align="center"> •	Loves to learn various subjects <em><strong></strong><em>. </h3>
-<hr/>
+- 💬 Ask me about **Hacking**
 
+- 📫 How to reach me **reach.sumit.raj@gmail.com**
 
-
-<h3>Skills:<h3>
-    <ul>
-        <li><h4>Proficient with:</h4></li>
-            <ul>
-                <li>Python</li>
-                <hr/>
-                <li>JavaScript</li>
-                <hr/>
-                <li>Node.js</li>
-                <hr/>
-                <li>SQL</li>    
-                <hr/>
-            </ul>
-        <li><h4>Familiar with:</h4></li>
-            <ul>
-                <li>HTML5</li>
-                <hr/>
-                <li>BootStrap</li>
-                <hr/>
-                <li>CSS</li>    
-                <hr/>
-            </ul>
-    <li><h4>Good knowledge of Cybersecurity.</h4></li>
-    <li><h4>Expert in using Linux-based operating systems(Ubuntu, KaliOS, ParrotOS, TailOs), Windows, MacOS, etc.</h4></ul></li>
-
-    
-### Connect with me:
-
-<p  align="center">
-<a href="https://www.linkedin.com/in/sumit-raj-007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-raj-007" height="30" width="40" /></a>
-<a href="https://www.instagram.com/xumit_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xumit_7" height="30" width="40" /></a>
-<a href="https://leetcode.com/SumitRaj-007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SumitRaj-007" height="30" width="40" /></a>
-<a href="https://t.me/Kayastha7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-raj-007" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
->**Thanks for visiting my profile.**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
->**Let me tell you about me.**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitraj-007&show_icons=true&locale=en&layout=compact" alt="sumitraj-007" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitraj-007&show_icons=true&locale=en" alt="sumitraj-007" /></p>
 
-
-
-
-
-
-
-
-<!--
-**SumitRaj-007/SumitRaj-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitraj-007&" alt="sumitraj-007" /></p>
