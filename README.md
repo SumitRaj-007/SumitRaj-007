@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Pentesting**
 
-- 💬 Ask me about **Hacking**
+- 💬 Ask me about **CyberSecurity**
 
 - 📫 How to reach me **reach.sumit.raj@gmail.com**
 
